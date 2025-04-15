@@ -117,7 +117,7 @@ nav a:hover{
     flex-direction: column;
     justify-content: center;
     gap: 30px;
-    width: 100%;
+    width: 50%;
     text-align: center;
 
     h1{
